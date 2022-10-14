@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oskarkaminskib@gmail.com**
 
-- ⚡ Fun fact **I know some coding here and there.**
+- ⚡ Owner of **Hound, RBXFly, scoo, wtching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
