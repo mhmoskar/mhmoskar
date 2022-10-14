@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmoskar&label=Profile%20views&color=0e75b6&style=flat" alt="mhmoskar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mhmoskar" target="blank"><img src="https://img.shields.io/twitter/follow/mhmoskar?logo=twitter&style=for-the-badge" alt="mhmoskar" /></a> </p>
-
 - 🔭 I’m currently working on **wtching**
 
 - 🌱 I’m currently learning **Python and JavaScript**
