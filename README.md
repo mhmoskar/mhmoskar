@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **oskarkaminskib@gmail.com**
 
-- ⚡ Owner of **Hound, RBXFly, scoo, wtching**
+- ⚡ Owner of **Hound, /oskar, scoo, wtching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
